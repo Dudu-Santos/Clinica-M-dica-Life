@@ -1,4 +1,4 @@
-# Clinica-Medica-Life
+# Projeto Clinica-Medica-Life
 Página estática dividida em setores com links para setores da prória página e de página secundária.
 
 ## Funcionalidades
